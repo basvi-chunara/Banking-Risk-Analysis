@@ -7,15 +7,14 @@ An interactive Power BI report that analyses customer loan and deposit behaviour
 ## Table of Contents
 
 1. [Project Overview](#project-overview)
-2. [File Structure](#file-structure)
-3. [Data Sources](#data-sources)
-4. [Report Pages](#report-pages)
+2. [Data Sources](#data-sources)
+3. [Report Pages](#report-pages)
    - [Home Page](#home-page)
    - [Loan Analysis](#loan-analysis)
    - [Deposit Analysis](#deposit-analysis)
    - [Summary](#summary)
-5. [Business Impact & Insights](#business-impact--insights)
-6. [Preview of the Dashboard](#preview-of-the-dashboard)
+4. [Business Impact & Insights](#business-impact--insights)
+5. [Preview of the Dashboard](#preview-of-the-dashboard)
 
 ---
 
@@ -34,24 +33,6 @@ The report is designed to answer questions such as:
 - How does business lending compare to personal bank loans?
 - What is the breakdown of savings accounts, chequing accounts, and credit card balances?
 - How many clients are on the books, and how long have they been engaged?
-
----
-
-## File Structure
-
-```
-Retail Banking Analytics.pbix
-├── Version                          # PBI version (1.28)
-├── [Content_Types].xml
-├── DiagramLayout                    # Model view layout
-├── DataModel                        # Compressed tabular data model
-├── Settings
-├── Metadata
-├── SecurityBindings
-└── Report/
-    ├── Layout                       
-
-```
 
 ---
 
