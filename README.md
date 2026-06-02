@@ -1,4 +1,4 @@
-# Banking Risk Analysis (Power BI Report)
+# Retail Banking Analytics Dashboard (Power BI Report)
 
 An interactive Power BI report that analyses customer loan and deposit behaviour across a banking client base. Built on two data sources, the report helps banking teams understand credit exposure, deposit composition, and customer demographics- broken down by income band, nationality, occupation, and banking relationship.
 
@@ -40,7 +40,7 @@ The report is designed to answer questions such as:
 ## File Structure
 
 ```
-Banking_Risk_Analysis.pbix
+Retail Banking Analytics.pbix
 ├── Version                          # PBI version (1.28)
 ├── [Content_Types].xml
 ├── DiagramLayout                    # Model view layout
